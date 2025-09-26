@@ -1,0 +1,16 @@
+Exercici 1: 2/2
+
+Exercici 2: 1.5/1.5
+
+Exercici 3: 0/1.5
+
+Exercici 4: 2.5/4
+Calia definir les variables primera_lletra, ultima_lletra i tres_lletres a partir de la variable nom
+primera_lletra = nom[0]
+ultima_lletra = nom[-1]
+tres_lletres = nom[2:5]
+  
+Github: 1/1
+Jupyter: 1/1
+
+Nota final: 8/11 --> 7.27
